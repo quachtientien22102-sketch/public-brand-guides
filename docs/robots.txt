@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quachtientien22102-sketch.github.io/public-brand-guides/sitemap.xml
